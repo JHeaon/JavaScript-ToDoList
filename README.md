@@ -14,7 +14,7 @@
 
 <br>
 
-🟧  사용한 기술 :  Javascript, html, css <br>
+🟧  사용한 기술 :  Javascript, html, css <br><br>
 
 
 Html, css, Javascript 을 이용하여 ToDoList을 만들었습니다. 
